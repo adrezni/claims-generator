@@ -1,4 +1,4 @@
-Timestamp,Customer Name,What is the main issue you're having ,Please pick one of these three symptoms:
+Timestamp,Name,Issue,Description
 03/04/21 10:46 AM,Smith 01,Brakes,my brakes make a noise whenever I try to stop
 03/04/21 10:46 AM,Smith 02,Starter,Car starts then stops
 03/04/21 10:47 AM,Smith 03,Door,I can't open the damn door to my car
